@@ -19,3 +19,4 @@ Frontend challenge for recruitment purposes. T
 - forget to add styling for mobile friendly things
 - Write pure html instead of jsx
 - forget to wrap an input field in a form
+- Add an onclick function on a submit button in a form
