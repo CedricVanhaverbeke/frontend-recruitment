@@ -17,4 +17,5 @@ Frontend challenge for recruitment purposes. T
 - Write a test that doesn't do anything true.equals(true)
 - Pass an array that makes use of both .map and .filter instead of putting it in one .filter
 - forget to add styling for mobile friendly things
-- 
+- Write pure html instead of jsx
+- forget to wrap an input field in a form
