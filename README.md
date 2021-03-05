@@ -22,4 +22,5 @@ Frontend challenge for recruitment purposes. T
 - Add an onclick function on a submit button in a form
 - Write a component that basically uses two of the same styled buttons. Test if they see that this should be one component
 - Test if they see that { key: key } can be written as {key}
+- Test if they know the return value of a useEffect to use as cleanup
  
