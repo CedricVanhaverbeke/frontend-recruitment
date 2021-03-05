@@ -3,7 +3,7 @@ Frontend challenge for recruitment purposes. T
 
 ## What to test
 
-- useState with previoust instead of state
+- useState with function instead of state + 1
 - destructure props in component itself
 - write a test that fails in the PR
 - write a feature that does not work in the PR
