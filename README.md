@@ -20,3 +20,4 @@ Frontend challenge for recruitment purposes. T
 - Write pure html instead of jsx
 - forget to wrap an input field in a form
 - Add an onclick function on a submit button in a form
+- Write a component that basically uses two of the same styled buttons. Test if they see that this should be one component
