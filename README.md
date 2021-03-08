@@ -26,3 +26,4 @@ Frontend challenge for recruitment purposes. T
 - Test if they understand how the dependecy array works of a useEffect hook
 - Conditionally render a hook, check if they understand why this is a bad idea.
 - Create a function in a parent component, and make it recalculate between renders. Test that they see that we should use the `useCallBack` hook here.
+- leave a console.log statement in the code
