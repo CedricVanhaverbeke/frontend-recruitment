@@ -28,3 +28,4 @@ Frontend challenge for recruitment purposes. T
 - Create a function in a parent component, and make it recalculate between renders. Test that they see that we should use the `useCallBack` hook here.
 - leave a console.log statement in the code
 - Ask some questions, without implementing code itself how a certain feature should be implemented. Ask for pseudocode and give an example.
+- Quite hard, write a ref and a useEffect that triggers some code when the ref is found. Check if they know this could be written with the use of a `useCallback` hook.
