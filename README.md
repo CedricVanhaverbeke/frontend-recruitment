@@ -27,3 +27,4 @@ Frontend challenge for recruitment purposes. T
 - Conditionally render a hook, check if they understand why this is a bad idea.
 - Create a function in a parent component, and make it recalculate between renders. Test that they see that we should use the `useCallBack` hook here.
 - leave a console.log statement in the code
+- Ask some questions, without implementing code itself how a certain feature should be implemented. Ask for pseudocode and give an example.
