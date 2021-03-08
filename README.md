@@ -29,3 +29,4 @@ Frontend challenge for recruitment purposes. T
 - leave a console.log statement in the code
 - Ask some questions, without implementing code itself how a certain feature should be implemented. Ask for pseudocode and give an example.
 - Quite hard, write a ref and a useEffect that triggers some code when the ref is found. Check if they know this could be written with the use of a `useCallback` hook.
+- Write a context provider that just passes down functions, without managing state. Check if they know we could create a hook instead.
